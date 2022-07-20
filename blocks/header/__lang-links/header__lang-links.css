@@ -1,0 +1,8 @@
+.header__lang-links {
+  display: flex;
+  align-items: flex-end;
+}
+
+.header__lang-links :last-child {
+  margin-right: 0;
+}
