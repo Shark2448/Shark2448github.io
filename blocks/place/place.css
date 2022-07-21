@@ -23,7 +23,6 @@
 @media screen and (max-width: 767px) {
   .place {
     margin-bottom: 50px;
-    display: grid;
     grid-template-areas:
       "title"
       "url"
